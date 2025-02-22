@@ -1,1 +1,4 @@
-mplcursors
+pandas
+matplotlib
+torch
+numpy
