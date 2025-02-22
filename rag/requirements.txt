@@ -1,0 +1,14 @@
+langchain
+langgraph
+pandas
+numpy
+scipy
+matplotlib
+ollama
+duckduckgo-search
+semantic-router
+pydantic
+torch 
+kaggle
+openai
+llama-index
